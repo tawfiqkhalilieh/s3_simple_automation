@@ -1,5 +1,3 @@
-from http import client
-from turtle import st
 from settings import Config
 import os
 import boto3
